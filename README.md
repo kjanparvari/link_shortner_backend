@@ -19,4 +19,4 @@ This repository contains the server-side implementation of the link-shortening a
 This project is part of a full-stack application. The frontend repository can be found [here](https://github.com/kjanparvari/link_shortner_frontend).  
 
 ## License  
-This project is licensed under the AUT License.
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.  
